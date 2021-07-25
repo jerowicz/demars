@@ -67,12 +67,12 @@ Inspired by the Galleries feature from WordPress, we've made it easy to create g
 
 ```html
 <div class="gallery" data-columns="3">
-    <img src="/images/demo/square-01.jpg">
-    <img src="/images/demo/portrait-02.jpg">
-    <img src="/images/demo/square-02.jpg">
-    <img src="/images/demo/square-03.jpg">
-    <img src="/images/demo/square-04.jpg">
-    <img src="/images/demo/landscape-05.jpg">
+    <img src="/demars/images/demo/square-01.jpg">
+    <img src="/demars/images/demo/portrait-02.jpg">
+    <img src="/demars/images/demo/square-02.jpg">
+    <img src="/demars/images/demo/square-03.jpg">
+    <img src="/demars/images/demo/square-04.jpg">
+    <img src="/demars/images/demo/landscape-05.jpg">
 </div>
 ```
 
@@ -89,9 +89,9 @@ Here's another gallery with only one column, which creates a carousel slide-show
 A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
 
 <div class="gallery" data-columns="1">
-	<img src="/images/demo/landscape-02.jpg">
-	<img src="/images/demo/landscape-03.jpg">
-	<img src="/images/demo/landscape-04.jpg">
+	<img src="/demars/images/demo/landscape-02.jpg">
+	<img src="/demars/images/demo/landscape-03.jpg">
+	<img src="/demars/images/demo/landscape-04.jpg">
 </div>
 
 ### What about videos?
