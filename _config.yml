@@ -1,7 +1,7 @@
-site: Board Jekyll Theme
+site: Demars Photography
 
-url: 
-baseurl: 
+url: https://jprelewicz.github.io/demars/
+baseurl: /demars
 
 collections:
   pages:
